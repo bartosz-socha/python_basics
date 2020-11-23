@@ -15,7 +15,7 @@ def make_sand(a: int):
 #dasd
 #make_sand(1)
 
-
+#comm
 var1 = input("Enter a number: ")
 var2 = input("Enter a number: ")
 
